@@ -52,5 +52,7 @@
                 <version>3.3.2</version>
             </plugin>
         </plugins>
+
+        <finalName>restjms19</finalName>
     </build>
 </project>
